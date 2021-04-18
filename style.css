@@ -52,12 +52,17 @@
 }
 
 
+footer{
+	background : black;
+	height : 200 px;
+}
 
-/* #insta{ */
-	/* width = 40 px; */
-/* } */
+#insta{
+	background : none;
+	height : 100 px;
+}
 /* #fBook{ */
-	/* width = 40 px; */
+	/* height = 40 px; */
 /* } */
 
 
