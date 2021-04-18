@@ -1,5 +1,104 @@
 #ekalayaLogo{
-	width: 100px;
+	width: 120px;
 	vertical-align:middle;
 }
+
+.teamPhoto{
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 20cm;
+}
+
+.teamPhoto#teamPhotos {
+	width: 20cm;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.teamPhoto#caption{
+	margin-top: 20px;
+}
+
+.subtitle{
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+.preview{
+	display: table;
+	margin: auto;
+}
+
+.image{
+	margin: 10px;
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 5cm;
+}
+
+#randy{
+	vertical-align: top;
+    text-align: center;
+    width: 5cm;
+}
+
+#timmy{
+	vertical-align: top;
+    text-align: center;
+    width: 5cm;
+}
+
+#virya{
+	vertical-align: top;
+    text-align: center;
+    width: 5cm;
+}
+
+#rozaan{
+	vertical-align: top;
+    text-align: center;
+    width: 5cm;
+}
+
+#stefanus{
+	vertical-align: top;
+    text-align: center;
+    width: 5cm;
+}
+
+#herry{
+	vertical-align: top;
+    text-align: center;
+    width: 5cm;
+}
+
+#satria{
+	vertical-align: top;
+    text-align: center;
+    width: 5cm;
+}
+
+#caption{
+	margin-top: 20px;
+}
+
+
+
+/* #insta{ */
+	/* width = 40 px; */
+/* } */
+/* #fBook{ */
+	/* width = 40 px; */
+/* } */
+
+
+
+
+
+
 
