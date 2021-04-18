@@ -54,16 +54,20 @@
 
 footer{
 	background : black;
-	height : 200 px;
+	vertical-align : middle;
+	height : 200px;
 }
 
 #insta{
+	margin-left : 10%;
+	margin-right: 5%;
 	background : none;
-	height : 100 px;
+	height : 100px;
 }
-/* #fBook{ */
-	/* height = 40 px; */
-/* } */
+#fBook{
+	background : none;
+	height : 100px;
+}
 
 
 
